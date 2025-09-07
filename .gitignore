@@ -1,1 +1,4 @@
 dependency/*
+.clinerules
+!test/*.cpp
+test/
